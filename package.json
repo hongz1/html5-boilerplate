@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "grunt-banner": "^0.2.3",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compress": "^0.10.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-sed": "^0.1.1",
+    "jquery": "1.11.1",
+    "load-grunt-tasks": "^0.6.0",
+    "normalize.css": "3.0.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "http://h5bp.com/",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.md"
+  },
+  "private": true,
+  "version": "4.3.0"
+}
